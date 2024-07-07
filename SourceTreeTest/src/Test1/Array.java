@@ -7,8 +7,8 @@ public class Array {
 
         //int[] numbers = new int[];
         //numbers[1]=0;
-
-        int[] numbers = {1,2,6,4,5};
+        int[] number = {11,22,33};
+        int[] numbers = {1,2,6,4,5,23456};
         Arrays.sort(numbers);
 
         System.out.println(Arrays.toString(numbers));
